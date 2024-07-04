@@ -1,0 +1,12 @@
+# node stuff
+node_modules/
+package-lock.json
+
+# build artifacts
+build/
+docs/
+*.log
+
+# devenv files
+.DS_Store
+
